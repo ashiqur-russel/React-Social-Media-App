@@ -62,6 +62,54 @@ export default function Sidebar() {
                     <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
                     <span className="sidebarFriendName">Jane Doe</span>
                 </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
+                <ul className="sidebarFriendList">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImage" />
+                    <span className="sidebarFriendName">Jane Doe</span>
+                </ul>
             </div>
 
         </div>
