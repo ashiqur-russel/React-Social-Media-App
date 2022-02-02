@@ -24,7 +24,6 @@ export default function Rightbar() {
             <h4 className='rightbarTitle'> Online Friends</h4>
             <ul className="rightbarFriendList">
                 {Users.map((user) => {
-                    console.log(user)
                     return (
 
                         <Online key={user.id} user={user} />
