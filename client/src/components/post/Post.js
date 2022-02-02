@@ -4,8 +4,6 @@ import MoreVertIcon from '@mui/icons-material/MoreVert';
 import { Users } from "../../testData.js"
 
 export default function Post({ post }) {
-    const user = Users.filter(user => user.id === 1);
-    console.log(user)
 
     return (
 

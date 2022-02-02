@@ -51,27 +51,8 @@
     margin: 20px 0;
 }
 
-
-.sidebarFriend{
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px;
-}
-
-.sidebarFriendImage{
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-right: 10px;
-
-}
-
 ul.rightbarFriendList{
     list-style-type: none;
   margin: 0;
   padding: 15px 0;
-
-
 }
-
