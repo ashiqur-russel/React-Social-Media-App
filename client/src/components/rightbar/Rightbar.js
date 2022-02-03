@@ -109,7 +109,7 @@ export default function Rightbar({ profile }) {
         <div className='rightbar'>
             {/* Birthday mesaage part start*/}
             <div className="rightbarWrapper">
-                <ProfileRightBar />
+                {profile ? <ProfileRightBar /> : <HomeRightBar />}
 
             </div>
         </div >

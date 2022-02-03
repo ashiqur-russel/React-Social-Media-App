@@ -1,8 +1,8 @@
 import React from 'react';
-//import Profile from './pages/home/Profile';
-import Login from './pages/login/Login';
+import Home from './pages/home/Home';
+
 const App = () => {
-  return <div><Login /></div>;
+  return <div><Home /></div>;
 };
 
 export default App;
