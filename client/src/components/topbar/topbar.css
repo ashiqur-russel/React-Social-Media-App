@@ -58,9 +58,24 @@
 }
 
 .topbarLink {
-  margin-right: 10px;
-  font-size: 14px;
+
+margin-right: 10px;
+  font-size: 16px;
   cursor: pointer;
+  text-decoration: none;
+  color: aliceblue;
+  padding: 5px;
+  border: 1px solid rgb(217, 216, 223);
+  border-radius: 5px;
+
+}
+
+.topbarLink:hover{
+    background-color: rgb(55, 87, 105);
+    border-radius: 10px;
+
+
+
 }
 
 .topbarIcons {
