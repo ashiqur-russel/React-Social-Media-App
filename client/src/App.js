@@ -1,7 +1,8 @@
 import React from 'react';
-import Profile from './pages/home/Profile';
+//import Profile from './pages/home/Profile';
+import Login from './pages/login/Login';
 const App = () => {
-  return <div><Profile /></div>;
+  return <div><Login /></div>;
 };
 
 export default App;
